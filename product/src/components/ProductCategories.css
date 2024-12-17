@@ -1,0 +1,14 @@
+.category-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.bg-white {
+    transition: transform 0.3s;
+}
+.bg-white:hover {
+    transform: scale(1.05);
+}
+.cursor-pointer {
+    cursor: pointer;
+}
